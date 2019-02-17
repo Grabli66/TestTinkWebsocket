@@ -1,0 +1,9 @@
+-cp src
+-main Main
+-lib hxnodejs
+-lib tink_core
+-lib tink_http
+-lib tink_web
+-lib tink_websocket
+-D tink_http_middleware
+-js out/server.js
